@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://misaraadel.github.io/village_diet/" target="_blank"><img src="https://misaraadel.github.io/village_diet/assets/images/logo.svg" width="400"></a></p>
+<p align="center"><a href="https://misaraadel.github.io/village_diet/" target="_blank"><img src="https://misaraadel.github.io/village_diet/assets/images/logo/logo.svg" width="400"></a></p>
 
 Design Made by [Misara Hammed](https://github.com/misaraadel)
 
